@@ -14,12 +14,9 @@ function Contact() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 data-test-id="pageTitle" className="title">
-              Contact
+              Contact Ravid for freelance work
             </h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
-            </p>
+            <p className="description">Contact me via email, thanks, Ravid.</p>
             <ul className="contact-links">
               <li className="contact-item">Email: lutfhi@me.com</li>
               <li className="contact-item">Phone: +6212344321007</li>

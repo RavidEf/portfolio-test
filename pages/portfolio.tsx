@@ -17,7 +17,7 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              This is the protfolio website of Ravid Efroni, welcome, humans.
             </p>
 
             <div className="portfolio-wrapper">
