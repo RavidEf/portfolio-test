@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import React from 'react';
 import Navbar from '../components/Navbar';
 
 function Contact() {
@@ -18,8 +19,7 @@ function Contact() {
             </h1>
             <p className="description">Contact me via email, thanks, Ravid.</p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">Email: ravidefroni@me.com</li>
             </ul>
           </div>
         </div>

@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import React from 'react';
 import Navbar from '../components/Navbar';
 
 function Home() {
@@ -19,12 +20,12 @@ function Home() {
             </h1>
             <p className="description">
               Hello fellow humans, you made it to my website, where I show you
-              my portfolio of web applications that I've built throuwth the
-              years (last 90 days actually).
+              my portfolio of web applications that I've built throughout the
+              years (actually the last 6 months).
             </p>
 
             <Link href="/contact" className="cta">
-              Kontak Saya
+              Kontak Ravid
             </Link>
           </div>
 

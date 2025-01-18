@@ -15,7 +15,7 @@ function About() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 data-test-id="pageTitle" className="title">
-              About
+              About Me
             </h1>
             <p className="description">
               Originally from Israel moved to Vienna to study business and
