@@ -25,7 +25,7 @@ function Home() {
             </p>
 
             <Link href="/contact" className="cta">
-              Kontak Ravid
+              Contact Ravid
             </Link>
           </div>
 
