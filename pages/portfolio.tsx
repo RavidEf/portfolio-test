@@ -26,7 +26,6 @@ function Portfolio() {
               <div className="portfolio-item">
                 <Link
                   href="https://bench-my-salary.vercel.app/"
-                  as="/portfolio/1"
                   target="_blank"
                 >
                   <img src="/chitchat.png" className="portfolio-image" alt="" />
